@@ -1,0 +1,19 @@
+.vfrc-chat--dialog {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+.vfrc-message {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+.vfrc-user-input input[type="text"] {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+.vfrc-chat-container {
+  direction: rtl !important;
+  text-align: right !important;
+}
